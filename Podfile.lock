@@ -1,0 +1,25 @@
+PODS:
+  - FlickrNetworking (0.1.0)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+
+DEPENDENCIES:
+  - FlickrNetworking (from `./Modules/FlickrNetworking`)
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  FlickrNetworking:
+    :path: "./Modules/FlickrNetworking"
+
+SPEC CHECKSUMS:
+  FlickrNetworking: a913ffb5d95aa51626bb61210ef3b00997bec5ce
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+
+PODFILE CHECKSUM: cb8313c16edcb92f8354a74c96a3b5ce690eaf19
+
+COCOAPODS: 1.8.4

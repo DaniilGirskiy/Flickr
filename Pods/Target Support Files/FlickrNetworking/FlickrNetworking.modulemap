@@ -1,0 +1,6 @@
+framework module FlickrNetworking {
+  umbrella header "FlickrNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
